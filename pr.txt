@@ -1,0 +1,12 @@
+1. Study and implementation of Infrastructure as a Service. Studyof  Cloud Computing & Architecture  = cc.txt
+2. Installation and Configuration of virtualization using KVM.
+3. Study and implementation of Infrastructure as a Service
+4. Study and implementation of Storage as a Service = drive
+5. Study and implementation of identitymanagement = https://demo.owncloud.org/login
+6. Study Cloud Security management = AWS 1 - Simulate
+7. Write a program for web feed. - RSS
+8. Study and implementation of Single-Sing-On.
+9. User Management in Cloud. = AWS 2 -User and group delete
+10. Case study on Amazon EC2/Microsoft Azure/Google Cloud Platform - case.txt
+
+
